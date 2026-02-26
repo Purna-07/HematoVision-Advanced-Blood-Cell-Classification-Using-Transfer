@@ -1,21 +1,3 @@
-## 🧠 Team ID : LTVIP2026TMIDS91192
-
-### Team Size : 4
-
----
-
-### 👨‍💻 Team Members
-
-Team Leader : Devarakonda Steeven Teja
-
-Team member : Kokkiligadda Vijay Kumar
-
-Team member : Koyya Venkata Sai Sandeep Reddy
-
-Team member : Durga Prasad Piraadi
-
----
-
 # 🧬 HematoVision: Advanced Blood Cell Classification Using Transfer Learning
 
 **HematoVision** is a deep learning-powered web application designed to classify microscopic images of blood cells into one of four categories:
